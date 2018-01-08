@@ -3,7 +3,7 @@ Matlab LSTM deep learning framework by Moritz Nakatenus.
 
 Overview
 =========
-This work is part of a Honors Thesis supervised by Elmar Rueckert. The framework can handle a LSTM cell with peephole connections. All gradients are derived fully analytically. For the exact derivations of all gradients used in this implementation, see the file [LSTMGradientsDerivations.pdf](LSTMGradientsDerivation.pdf). In this file, the 'Backpropagation Through Time' and 'Truncated Backpropagation Through Time' algorithm are also explained.
+This work is part of a Honors Thesis supervised by Elmar Rueckert. The framework can handle a LSTM cell with peephole connections. All gradients are derived fully analytically. For the exact derivations of all gradients used in this implementation, see the file [LSTMGradientsDerivations.pdf](LSTMGradientsDerivations.pdf). In this file, the 'Backpropagation Through Time' and 'Truncated Backpropagation Through Time' algorithm are also explained.
 
 Features
 =========
