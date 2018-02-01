@@ -10,7 +10,7 @@ Features
 * Backpropagation Through Time algorithm
 * Truncated Backpropagation Through Time algorithm
 * RMSProp and Momentum Optimizer
-* MSE and Cross-Entropy-Cost (used for training and evaluation)
+* MSE and Cross-Entropy-Cost
 * Softmax-output layer and unsaturated output layer can be used
 * A example training-script using cross-validation and evaluation plots
 
